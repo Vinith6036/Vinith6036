@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZDI4ZDYxYmRjMzViYmJjZDRhYmU5YjYyZGRjYmU5N2Y0ZGE4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw60bmHwUAbyLU8OC3/giphy.gif" width="35"> Hello World!, I'm Vinith!
+# Hello World!, I'm Vinith!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00BFFF&width=500&lines=MCA+Student+at+CUCEK;Software+Developer;Python+Django+Expert;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00BFFF&width=500&lines=MCA+Student+at+CUCEK;Aspiring+Software+Developer;Learning+Python+Django;Problem+Solver" />
 </p>
 
 ### 👨‍💻 About Me
