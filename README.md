@@ -1,7 +1,7 @@
 # Hello World!, I'm Vinith!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00BFFF&width=500&lines=MCA+Student+at+CUCAT;Aspiring+Software+Developer;Learning+Python+Django;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00BFFF&width=500&lines=MCA+Student+at+CUSAT;Aspiring+Software+Developer;Learning+Python+Django;Problem+Solver" />
 </p>
 
 ### 👨‍💻 About Me
