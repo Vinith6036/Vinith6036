@@ -52,7 +52,7 @@
 | Project | Tech Stack | Status |
 | :--- | :--- | :--- |
 | **🏥 Personal Healthcare** | `PHP` `MySQL` `JS` | [View Code](https://github.com/yourusername/personal-healthcare) |
-| **🗳️ E-Ballot** | `Python` `Django` `SQL` | [View Code](https://github.com/yourusername/e-ballot) |
+| **🗳️ E-Ballot** | `Python` `Django` `SQL` | [View Code](https://github.com/vinith6036/e-ballot) |
 
 ---
 
