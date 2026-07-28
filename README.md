@@ -26,7 +26,7 @@ MCA Student • Python Django Developer • AI Enthusiast
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=3500&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Python+Django+Developer;Building+AI+Powered+Applications;Open+Source+Learner;Always+Learning+Something+New;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=3500&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Python+Django+Developer;Building+AI+Powered+Applications;Open+Source+Learner;Always+Learning+Something+New;Future+Software+Engineer" />
 
 </p>
 
@@ -328,6 +328,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinith6036&l
 
 </p>
 
+<!-- Running on the shared public instance — expect occasional "rate limit exceeded".
+     Revisit this once Phase 2 (self-hosted github-readme-stats) is set up. -->
+
 ---
 
 # 🔥 GitHub Streak
@@ -420,17 +423,20 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinith6036&l
 
 <picture>
     <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/Vinith6036/Vinith6036/output/github-snake-dark.svg">
+        srcset="https://raw.githubusercontent.com/Vinith6036/Vinith6036/output/snake-dark.svg">
 
     <source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/Vinith6036/Vinith6036/output/github-snake.svg">
+        srcset="https://raw.githubusercontent.com/Vinith6036/Vinith6036/output/snake-light.svg">
 
     <img alt="Contribution Snake"
-        src="https://raw.githubusercontent.com/Vinith6036/Vinith6036/output/github-snake.svg">
+        src="https://raw.githubusercontent.com/Vinith6036/Vinith6036/output/snake-light.svg">
 
 </picture>
 
 </p>
+
+<!-- These paths won't resolve until snake.yml (Phase 3) has run at least once
+     and created the "output" branch — add this section back / verify after that. -->
 
 ---
 
@@ -521,26 +527,6 @@ me = Developer()
 
 ---
 
-# 📫 Contact Me
-
-<p align="center">
-
-<a href="mailto:vinithm457@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/vinith-m-6944aa390">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/Vinith6036">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
 # 💡 Fun Facts
 
 - 💻 I enjoy building real-world software projects.
@@ -566,6 +552,9 @@ JavaScript     ███░░░░░░░░░░░░░    7%
 Other          ██░░░░░░░░░░░░░░    5%
 ```
 <!--END_SECTION:waka-->
+
+<!-- Placeholder numbers above until waka.yml runs for the first time and
+     the Action overwrites this block with your real WakaTime data. -->
 
 ---
 
@@ -593,7 +582,7 @@ Happy Coding ❤️
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Thank+You+For+Visiting+My+Profile;Let's+Build+Something+Amazing;Always+Learning+Always+Growing">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Thank+You+For+Visiting+My+Profile;Let's+Build+Something+Amazing;Always+Learning+Always+Growing">
 
 </p>
 
