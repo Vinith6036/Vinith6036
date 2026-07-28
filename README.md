@@ -30,6 +30,10 @@ MCA Student • Python Django Developer • AI Enthusiast
 
 </p>
 
+<p align="center">
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:A78BFA,50:22D3EE,100:10B981&section=header"/>
+</p>
+
 ---
 
 # 💫 About Me
@@ -513,17 +517,22 @@ me = Developer()
 
 # 🌟 Skills Progress
 
-| Skill | Progress |
-|---------|---------|
-| Python | █████████░ 90% |
-| Django | ████████░░ 85% |
-| HTML/CSS | █████████░ 90% |
-| Bootstrap | ████████░░ 85% |
-| Java | ███████░░░ 75% |
-| JavaScript | ███████░░░ 70% |
-| MySQL | ████████░░ 80% |
-| MongoDB | ███████░░░ 70% |
-| Git | ████████░░ 80% |
+<p align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/Vinith6036/Vinith6036/main/skills-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/Vinith6036/Vinith6036/main/skills-light.svg">
+    <img alt="Skills Progress"
+        src="https://raw.githubusercontent.com/Vinith6036/Vinith6036/main/skills-light.svg">
+</picture>
+
+</p>
+
+<p align="center">
+<img width="60%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:10B981,50:22D3EE,100:A78BFA&section=header"/>
+</p>
 
 ---
 
